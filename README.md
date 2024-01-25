@@ -1,4 +1,4 @@
-![a1936436109_10](https://github.com/danKorzen/D6/assets/117099913/fae9390b-46fa-4d19-97c3-4e1ef8cef0a4)# This is my heading 
+# This is my heading 
 **This is bold text** 
 _This is italic text_
 > this is a blockquote
